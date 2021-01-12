@@ -1,6 +1,6 @@
 # React-ComponentNoteBook
 
-### Toggle Check bok
+### Toggle Check box
 
 ```javascript
 const onCheckboxChange = (cartID) => {
